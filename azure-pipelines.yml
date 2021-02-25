@@ -9,7 +9,6 @@
 # * Add steps that publish symbols, save build artifacts, and more:
 # https://docs.microsoft.com/en-gb/azure/devops/pipelines/customize-pipeline?view=azure-devops
  
- 
 trigger:
 - master
  
